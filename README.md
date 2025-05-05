@@ -91,7 +91,7 @@ Ports:
 
 Screenshots
 -----------
-[Insert Streamlit Interface Screenshot Here]
+![AI chatbot](<Screenshot 2025-04-26 221423.png>)
 
 Future Enhancements
 -------------------
