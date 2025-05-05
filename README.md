@@ -2,7 +2,6 @@
 AI Insight Chatbot - README
 ============================
 
-[Insert Project Banner Image Here]
 
 Table of Contents
 -----------------
