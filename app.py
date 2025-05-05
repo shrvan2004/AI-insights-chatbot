@@ -9,7 +9,7 @@ api_key=os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=api_key)
 
 
-df = pd.read_csv("D:/AI_Insight_Chatbot_Project/large_sales_dataset_10000x26.csv")
+df = pd.read_csv("https://github.com/shrvan2004/AI-insights-chatbot/blob/master/large_sales_dataset_10000x26.csv")
 
 app = Flask(__name__)
 
