@@ -103,7 +103,8 @@ Future Enhancements
 
 Contributors
 ------------
-- Your Name Here
+- Shrvan Singh Thakur
+- Sanjeevani sahare 
 
 Quick Start
 -----------
